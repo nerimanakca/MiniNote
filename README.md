@@ -38,7 +38,13 @@ Suggested screenshots for the repo:
 5. Swipe actions (Copy/Share/Delete)
 6. Settings (Backup/Restore)
 
-> Add screenshots to: `Screenshots/` folder and embed them here if you want.
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshots/home.png" width="260" />
+  <img src="Screenshots/settings.png" width="260" />
+  <img src="Screenshots/new-note.png" width="260" />
+</p>
 
 ## 🚀 Getting Started
 ### Requirements
